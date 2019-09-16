@@ -17,6 +17,8 @@ namespace test1
             }
 
 
+            Console.WriteLine("fxxk");
+
         }
     }
 }
