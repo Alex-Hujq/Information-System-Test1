@@ -6,9 +6,17 @@ namespace test1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           /* Console.WriteLine("Hello World!");
             Console.ReadLine();
-            return;
+            return;*/
+
+            int i;
+            for (i = 0; i < 100; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+
         }
     }
 }
