@@ -12,7 +12,7 @@ namespace _123
 
             Type nametype = name.GetType();
             Type agetype = age.GetType();
-            Type israbbittype = israbbit.GetType();
+            Type israbbittype= israbbit.GetType();
 
             Console.WriteLine("name is type" + nametype.ToString());
             Console.WriteLine("age is type" + agetype.ToString());
